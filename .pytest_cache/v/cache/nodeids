@@ -1,0 +1,9 @@
+[
+  "backend/tests/test_inventory_calculations.py::test_consumption_summary_endpoint",
+  "backend/tests/test_inventory_calculations.py::test_dynamic_recalculation_on_stock_change",
+  "backend/tests/test_inventory_calculations.py::test_health_endpoint",
+  "backend/tests/test_inventory_calculations.py::test_hospitals_endpoint",
+  "backend/tests/test_inventory_calculations.py::test_inventory_endpoint_structure_and_dynamic_calculation",
+  "backend/tests/test_inventory_calculations.py::test_shipments_endpoint",
+  "backend/tests/test_inventory_calculations.py::test_supplies_endpoint"
+]

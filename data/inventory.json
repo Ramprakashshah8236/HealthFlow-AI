@@ -1,0 +1,1562 @@
+[
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-5506-01",
+    "current_stock": 373,
+    "minimum_buffer": 1458,
+    "expiry_date": "2026-12-20"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-2679-02",
+    "current_stock": 5243,
+    "minimum_buffer": 2427,
+    "expiry_date": "2027-03-25"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-2424-03",
+    "current_stock": 3072,
+    "minimum_buffer": 1123,
+    "expiry_date": "2027-10-19"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-1488-04",
+    "current_stock": 612,
+    "minimum_buffer": 2446,
+    "expiry_date": "2026-12-22"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-9279-05",
+    "current_stock": 1185,
+    "minimum_buffer": 605,
+    "expiry_date": "2027-05-12"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-4257-06",
+    "current_stock": 981,
+    "minimum_buffer": 372,
+    "expiry_date": "2027-10-27"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-7873-07",
+    "current_stock": 2505,
+    "minimum_buffer": 898,
+    "expiry_date": "2027-10-19"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-5557-08",
+    "current_stock": 995,
+    "minimum_buffer": 468,
+    "expiry_date": "2027-11-10"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-3615-09",
+    "current_stock": 99,
+    "minimum_buffer": 360,
+    "expiry_date": "2026-12-15"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-5552-10",
+    "current_stock": 1410,
+    "minimum_buffer": 510,
+    "expiry_date": "2027-07-06"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-2674-11",
+    "current_stock": 1430,
+    "minimum_buffer": 701,
+    "expiry_date": "2027-07-04"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6881-12",
+    "current_stock": 441,
+    "minimum_buffer": 225,
+    "expiry_date": "2027-03-03"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-5333-13",
+    "current_stock": 1032,
+    "minimum_buffer": 348,
+    "expiry_date": "2027-11-18"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-9785-14",
+    "current_stock": 3357,
+    "minimum_buffer": 1154,
+    "expiry_date": "2027-09-05"
+  },
+  {
+    "facility_id": "HOSP-01",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-2291-15",
+    "current_stock": 1386,
+    "minimum_buffer": 693,
+    "expiry_date": "2027-07-25"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-6925-01",
+    "current_stock": 2054,
+    "minimum_buffer": 799,
+    "expiry_date": "2027-11-30"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-1750-02",
+    "current_stock": 4060,
+    "minimum_buffer": 1560,
+    "expiry_date": "2027-02-17"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-2307-03",
+    "current_stock": 1897,
+    "minimum_buffer": 698,
+    "expiry_date": "2027-06-10"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-7227-04",
+    "current_stock": 4391,
+    "minimum_buffer": 1476,
+    "expiry_date": "2027-03-05"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-6977-05",
+    "current_stock": 871,
+    "minimum_buffer": 395,
+    "expiry_date": "2027-12-04"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-4432-06",
+    "current_stock": 508,
+    "minimum_buffer": 248,
+    "expiry_date": "2027-07-13"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-3803-07",
+    "current_stock": 1689,
+    "minimum_buffer": 619,
+    "expiry_date": "2027-02-18"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-3677-08",
+    "current_stock": 765,
+    "minimum_buffer": 300,
+    "expiry_date": "2027-05-18"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-4598-09",
+    "current_stock": 482,
+    "minimum_buffer": 196,
+    "expiry_date": "2027-05-31"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-4752-10",
+    "current_stock": 991,
+    "minimum_buffer": 361,
+    "expiry_date": "2027-02-10"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-7572-11",
+    "current_stock": 1409,
+    "minimum_buffer": 481,
+    "expiry_date": "2027-06-23"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6155-12",
+    "current_stock": 331,
+    "minimum_buffer": 151,
+    "expiry_date": "2027-05-01"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-7482-13",
+    "current_stock": 493,
+    "minimum_buffer": 233,
+    "expiry_date": "2027-09-25"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-8517-14",
+    "current_stock": 2272,
+    "minimum_buffer": 754,
+    "expiry_date": "2027-12-08"
+  },
+  {
+    "facility_id": "HOSP-02",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-5040-15",
+    "current_stock": 920,
+    "minimum_buffer": 454,
+    "expiry_date": "2027-03-25"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-5304-01",
+    "current_stock": 2746,
+    "minimum_buffer": 971,
+    "expiry_date": "2027-10-15"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-7543-02",
+    "current_stock": 5315,
+    "minimum_buffer": 1878,
+    "expiry_date": "2027-08-20"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-9348-03",
+    "current_stock": 1863,
+    "minimum_buffer": 804,
+    "expiry_date": "2027-03-24"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-2796-04",
+    "current_stock": 3879,
+    "minimum_buffer": 1557,
+    "expiry_date": "2027-02-06"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-7916-05",
+    "current_stock": 937,
+    "minimum_buffer": 460,
+    "expiry_date": "2027-04-04"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-7252-06",
+    "current_stock": 771,
+    "minimum_buffer": 293,
+    "expiry_date": "2027-07-29"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-9669-07",
+    "current_stock": 930,
+    "minimum_buffer": 814,
+    "expiry_date": "2026-10-14"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-1188-08",
+    "current_stock": 740,
+    "minimum_buffer": 341,
+    "expiry_date": "2027-10-23"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-9797-09",
+    "current_stock": 634,
+    "minimum_buffer": 231,
+    "expiry_date": "2027-03-12"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-6573-10",
+    "current_stock": 1138,
+    "minimum_buffer": 401,
+    "expiry_date": "2027-12-07"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-3591-11",
+    "current_stock": 1055,
+    "minimum_buffer": 532,
+    "expiry_date": "2027-08-23"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-9201-12",
+    "current_stock": 431,
+    "minimum_buffer": 176,
+    "expiry_date": "2027-05-27"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-2743-13",
+    "current_stock": 764,
+    "minimum_buffer": 268,
+    "expiry_date": "2027-09-29"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-9317-14",
+    "current_stock": 2547,
+    "minimum_buffer": 850,
+    "expiry_date": "2027-06-14"
+  },
+  {
+    "facility_id": "HOSP-03",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-7126-15",
+    "current_stock": 679,
+    "minimum_buffer": 593,
+    "expiry_date": "2026-10-04"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-9689-01",
+    "current_stock": 1985,
+    "minimum_buffer": 696,
+    "expiry_date": "2027-10-16"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-6310-02",
+    "current_stock": 4202,
+    "minimum_buffer": 1374,
+    "expiry_date": "2027-11-15"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-6947-03",
+    "current_stock": 426,
+    "minimum_buffer": 685,
+    "expiry_date": "2026-12-12"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-4923-04",
+    "current_stock": 3437,
+    "minimum_buffer": 1144,
+    "expiry_date": "2027-06-19"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-2290-05",
+    "current_stock": 202,
+    "minimum_buffer": 392,
+    "expiry_date": "2027-04-08"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-2133-06",
+    "current_stock": 406,
+    "minimum_buffer": 208,
+    "expiry_date": "2027-09-18"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-3060-07",
+    "current_stock": 1593,
+    "minimum_buffer": 508,
+    "expiry_date": "2027-10-12"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-3705-08",
+    "current_stock": 511,
+    "minimum_buffer": 255,
+    "expiry_date": "2027-09-13"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-7932-09",
+    "current_stock": 374,
+    "minimum_buffer": 171,
+    "expiry_date": "2027-11-19"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-4295-10",
+    "current_stock": 948,
+    "minimum_buffer": 304,
+    "expiry_date": "2027-10-16"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-7118-11",
+    "current_stock": 1089,
+    "minimum_buffer": 391,
+    "expiry_date": "2027-08-05"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-8397-12",
+    "current_stock": 308,
+    "minimum_buffer": 127,
+    "expiry_date": "2027-10-04"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-2049-13",
+    "current_stock": 393,
+    "minimum_buffer": 197,
+    "expiry_date": "2027-05-08"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-4770-14",
+    "current_stock": 1373,
+    "minimum_buffer": 601,
+    "expiry_date": "2027-11-10"
+  },
+  {
+    "facility_id": "HOSP-04",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-2163-15",
+    "current_stock": 1020,
+    "minimum_buffer": 390,
+    "expiry_date": "2027-01-16"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-4750-01",
+    "current_stock": 1488,
+    "minimum_buffer": 536,
+    "expiry_date": "2027-02-12"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-6413-02",
+    "current_stock": 1988,
+    "minimum_buffer": 1034,
+    "expiry_date": "2027-01-29"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-5562-03",
+    "current_stock": 855,
+    "minimum_buffer": 443,
+    "expiry_date": "2027-05-14"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-9834-04",
+    "current_stock": 2470,
+    "minimum_buffer": 906,
+    "expiry_date": "2027-05-02"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-8744-05",
+    "current_stock": 520,
+    "minimum_buffer": 258,
+    "expiry_date": "2027-11-01"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-7669-06",
+    "current_stock": 358,
+    "minimum_buffer": 166,
+    "expiry_date": "2027-09-12"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-8062-07",
+    "current_stock": 817,
+    "minimum_buffer": 391,
+    "expiry_date": "2027-03-03"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-8651-08",
+    "current_stock": 445,
+    "minimum_buffer": 193,
+    "expiry_date": "2027-08-11"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-2612-09",
+    "current_stock": 378,
+    "minimum_buffer": 126,
+    "expiry_date": "2027-02-09"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-2790-10",
+    "current_stock": 414,
+    "minimum_buffer": 216,
+    "expiry_date": "2027-07-05"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-9786-11",
+    "current_stock": 646,
+    "minimum_buffer": 298,
+    "expiry_date": "2027-04-20"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-4006-12",
+    "current_stock": 232,
+    "minimum_buffer": 95,
+    "expiry_date": "2027-08-17"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-2235-13",
+    "current_stock": 333,
+    "minimum_buffer": 151,
+    "expiry_date": "2027-05-20"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-2604-14",
+    "current_stock": 1134,
+    "minimum_buffer": 468,
+    "expiry_date": "2027-10-21"
+  },
+  {
+    "facility_id": "HOSP-05",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-1241-15",
+    "current_stock": 544,
+    "minimum_buffer": 286,
+    "expiry_date": "2027-10-16"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-3724-01",
+    "current_stock": 1363,
+    "minimum_buffer": 436,
+    "expiry_date": "2027-05-14"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-4502-02",
+    "current_stock": 1996,
+    "minimum_buffer": 840,
+    "expiry_date": "2027-09-16"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-3697-03",
+    "current_stock": 1124,
+    "minimum_buffer": 376,
+    "expiry_date": "2027-02-12"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-5345-04",
+    "current_stock": 1728,
+    "minimum_buffer": 739,
+    "expiry_date": "2027-07-31"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-5673-05",
+    "current_stock": 639,
+    "minimum_buffer": 208,
+    "expiry_date": "2027-09-02"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-8973-06",
+    "current_stock": 170,
+    "minimum_buffer": 71,
+    "expiry_date": "2027-10-24"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-4566-07",
+    "current_stock": 647,
+    "minimum_buffer": 317,
+    "expiry_date": "2027-06-13"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-9883-08",
+    "current_stock": 506,
+    "minimum_buffer": 162,
+    "expiry_date": "2027-11-05"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-1936-09",
+    "current_stock": 205,
+    "minimum_buffer": 107,
+    "expiry_date": "2027-06-22"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-9238-10",
+    "current_stock": 356,
+    "minimum_buffer": 187,
+    "expiry_date": "2027-09-14"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-3579-11",
+    "current_stock": 725,
+    "minimum_buffer": 237,
+    "expiry_date": "2027-10-11"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-2312-12",
+    "current_stock": 601,
+    "minimum_buffer": 315,
+    "expiry_date": "2027-09-30"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-2113-13",
+    "current_stock": 363,
+    "minimum_buffer": 122,
+    "expiry_date": "2027-02-17"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-7615-14",
+    "current_stock": 1115,
+    "minimum_buffer": 408,
+    "expiry_date": "2027-05-13"
+  },
+  {
+    "facility_id": "HOSP-06",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-5033-15",
+    "current_stock": 480,
+    "minimum_buffer": 241,
+    "expiry_date": "2027-10-31"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-2343-01",
+    "current_stock": 3520,
+    "minimum_buffer": 1351,
+    "expiry_date": "2027-02-02"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-9565-02",
+    "current_stock": 6182,
+    "minimum_buffer": 2584,
+    "expiry_date": "2027-11-07"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-4346-03",
+    "current_stock": 2569,
+    "minimum_buffer": 1139,
+    "expiry_date": "2027-05-26"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-4910-04",
+    "current_stock": 5935,
+    "minimum_buffer": 2177,
+    "expiry_date": "2027-06-22"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-5915-05",
+    "current_stock": 1391,
+    "minimum_buffer": 636,
+    "expiry_date": "2027-03-21"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-1152-06",
+    "current_stock": 984,
+    "minimum_buffer": 402,
+    "expiry_date": "2027-02-19"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-2638-07",
+    "current_stock": 2309,
+    "minimum_buffer": 944,
+    "expiry_date": "2027-10-28"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-9288-08",
+    "current_stock": 904,
+    "minimum_buffer": 468,
+    "expiry_date": "2027-05-02"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-2127-09",
+    "current_stock": 679,
+    "minimum_buffer": 310,
+    "expiry_date": "2027-07-10"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-5669-10",
+    "current_stock": 1668,
+    "minimum_buffer": 555,
+    "expiry_date": "2027-07-21"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-5956-11",
+    "current_stock": 1480,
+    "minimum_buffer": 724,
+    "expiry_date": "2027-10-18"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-1128-12",
+    "current_stock": 653,
+    "minimum_buffer": 246,
+    "expiry_date": "2027-10-10"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-5905-13",
+    "current_stock": 976,
+    "minimum_buffer": 358,
+    "expiry_date": "2027-10-23"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-3200-14",
+    "current_stock": 3620,
+    "minimum_buffer": 1177,
+    "expiry_date": "2027-03-07"
+  },
+  {
+    "facility_id": "HOSP-07",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-3546-15",
+    "current_stock": 1589,
+    "minimum_buffer": 727,
+    "expiry_date": "2027-03-08"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-4450-01",
+    "current_stock": 724,
+    "minimum_buffer": 330,
+    "expiry_date": "2027-11-18"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-5325-02",
+    "current_stock": 1824,
+    "minimum_buffer": 654,
+    "expiry_date": "2027-04-27"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-1832-03",
+    "current_stock": 692,
+    "minimum_buffer": 276,
+    "expiry_date": "2027-05-21"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-5533-04",
+    "current_stock": 1087,
+    "minimum_buffer": 556,
+    "expiry_date": "2027-08-17"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-3143-05",
+    "current_stock": 296,
+    "minimum_buffer": 156,
+    "expiry_date": "2027-07-02"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-3647-06",
+    "current_stock": 269,
+    "minimum_buffer": 100,
+    "expiry_date": "2027-05-27"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-8007-07",
+    "current_stock": 692,
+    "minimum_buffer": 245,
+    "expiry_date": "2027-10-22"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-2232-08",
+    "current_stock": 309,
+    "minimum_buffer": 120,
+    "expiry_date": "2027-03-11"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-9938-09",
+    "current_stock": 251,
+    "minimum_buffer": 81,
+    "expiry_date": "2027-03-30"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-3426-10",
+    "current_stock": 264,
+    "minimum_buffer": 140,
+    "expiry_date": "2027-07-21"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-6050-11",
+    "current_stock": 442,
+    "minimum_buffer": 184,
+    "expiry_date": "2027-02-03"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6862-12",
+    "current_stock": 137,
+    "minimum_buffer": 59,
+    "expiry_date": "2027-02-02"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-2684-13",
+    "current_stock": 185,
+    "minimum_buffer": 87,
+    "expiry_date": "2027-05-20"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-7658-14",
+    "current_stock": 691,
+    "minimum_buffer": 300,
+    "expiry_date": "2027-10-26"
+  },
+  {
+    "facility_id": "HOSP-08",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-4878-15",
+    "current_stock": 561,
+    "minimum_buffer": 179,
+    "expiry_date": "2027-04-02"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-7755-01",
+    "current_stock": 1753,
+    "minimum_buffer": 587,
+    "expiry_date": "2027-04-13"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-7745-02",
+    "current_stock": 2047,
+    "minimum_buffer": 1097,
+    "expiry_date": "2027-07-02"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-5371-03",
+    "current_stock": 1371,
+    "minimum_buffer": 472,
+    "expiry_date": "2027-05-20"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-7267-04",
+    "current_stock": 2022,
+    "minimum_buffer": 988,
+    "expiry_date": "2027-03-09"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-4644-05",
+    "current_stock": 800,
+    "minimum_buffer": 267,
+    "expiry_date": "2027-09-10"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-6728-06",
+    "current_stock": 368,
+    "minimum_buffer": 175,
+    "expiry_date": "2027-09-05"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-4652-07",
+    "current_stock": 917,
+    "minimum_buffer": 409,
+    "expiry_date": "2027-05-09"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-7528-08",
+    "current_stock": 389,
+    "minimum_buffer": 208,
+    "expiry_date": "2027-04-21"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-5573-09",
+    "current_stock": 317,
+    "minimum_buffer": 139,
+    "expiry_date": "2027-02-17"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-7548-10",
+    "current_stock": 556,
+    "minimum_buffer": 242,
+    "expiry_date": "2027-09-30"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-6425-11",
+    "current_stock": 859,
+    "minimum_buffer": 313,
+    "expiry_date": "2027-10-14"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-5279-12",
+    "current_stock": 322,
+    "minimum_buffer": 104,
+    "expiry_date": "2027-03-13"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-1626-13",
+    "current_stock": 331,
+    "minimum_buffer": 160,
+    "expiry_date": "2027-05-28"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-6663-14",
+    "current_stock": 987,
+    "minimum_buffer": 499,
+    "expiry_date": "2027-08-23"
+  },
+  {
+    "facility_id": "HOSP-09",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-8149-15",
+    "current_stock": 873,
+    "minimum_buffer": 311,
+    "expiry_date": "2027-06-22"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-2894-01",
+    "current_stock": 773,
+    "minimum_buffer": 292,
+    "expiry_date": "2027-10-01"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-4114-02",
+    "current_stock": 1363,
+    "minimum_buffer": 580,
+    "expiry_date": "2027-11-04"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-1027-03",
+    "current_stock": 514,
+    "minimum_buffer": 236,
+    "expiry_date": "2027-08-24"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-4228-04",
+    "current_stock": 1266,
+    "minimum_buffer": 501,
+    "expiry_date": "2027-10-15"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-6409-05",
+    "current_stock": 326,
+    "minimum_buffer": 140,
+    "expiry_date": "2027-02-17"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-5920-06",
+    "current_stock": 229,
+    "minimum_buffer": 86,
+    "expiry_date": "2027-03-17"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-6344-07",
+    "current_stock": 520,
+    "minimum_buffer": 207,
+    "expiry_date": "2027-08-10"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-3085-08",
+    "current_stock": 252,
+    "minimum_buffer": 106,
+    "expiry_date": "2027-06-13"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-3851-09",
+    "current_stock": 152,
+    "minimum_buffer": 72,
+    "expiry_date": "2027-07-26"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-7653-10",
+    "current_stock": 322,
+    "minimum_buffer": 121,
+    "expiry_date": "2027-06-16"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-5978-11",
+    "current_stock": 406,
+    "minimum_buffer": 158,
+    "expiry_date": "2027-01-13"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6279-12",
+    "current_stock": 112,
+    "minimum_buffer": 50,
+    "expiry_date": "2027-08-21"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-4501-13",
+    "current_stock": 207,
+    "minimum_buffer": 84,
+    "expiry_date": "2027-08-27"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-2389-14",
+    "current_stock": 687,
+    "minimum_buffer": 273,
+    "expiry_date": "2027-04-09"
+  },
+  {
+    "facility_id": "HOSP-10",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-6491-15",
+    "current_stock": 349,
+    "minimum_buffer": 158,
+    "expiry_date": "2027-12-03"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-6085-01",
+    "current_stock": 2252,
+    "minimum_buffer": 1192,
+    "expiry_date": "2027-07-12"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-3414-02",
+    "current_stock": 5037,
+    "minimum_buffer": 2414,
+    "expiry_date": "2027-06-23"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-8784-03",
+    "current_stock": 1890,
+    "minimum_buffer": 1058,
+    "expiry_date": "2027-07-17"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-8461-04",
+    "current_stock": 5314,
+    "minimum_buffer": 1992,
+    "expiry_date": "2027-04-20"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-4185-05",
+    "current_stock": 1419,
+    "minimum_buffer": 598,
+    "expiry_date": "2028-01-02"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-9099-06",
+    "current_stock": 1057,
+    "minimum_buffer": 374,
+    "expiry_date": "2027-09-26"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-1090-07",
+    "current_stock": 2051,
+    "minimum_buffer": 873,
+    "expiry_date": "2027-05-28"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-7965-08",
+    "current_stock": 1381,
+    "minimum_buffer": 447,
+    "expiry_date": "2027-05-07"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-8611-09",
+    "current_stock": 630,
+    "minimum_buffer": 303,
+    "expiry_date": "2027-12-04"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-2988-10",
+    "current_stock": 995,
+    "minimum_buffer": 545,
+    "expiry_date": "2027-07-19"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-9702-11",
+    "current_stock": 1671,
+    "minimum_buffer": 686,
+    "expiry_date": "2027-11-06"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6198-12",
+    "current_stock": 717,
+    "minimum_buffer": 222,
+    "expiry_date": "2028-01-12"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-9270-13",
+    "current_stock": 1064,
+    "minimum_buffer": 335,
+    "expiry_date": "2027-10-26"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-8305-14",
+    "current_stock": 2651,
+    "minimum_buffer": 1109,
+    "expiry_date": "2027-12-19"
+  },
+  {
+    "facility_id": "DEPOT-01",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-8373-15",
+    "current_stock": 2024,
+    "minimum_buffer": 654,
+    "expiry_date": "2027-11-12"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-5543-01",
+    "current_stock": 2656,
+    "minimum_buffer": 1242,
+    "expiry_date": "2027-07-18"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-8939-02",
+    "current_stock": 6738,
+    "minimum_buffer": 2324,
+    "expiry_date": "2027-12-05"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-8206-03",
+    "current_stock": 2828,
+    "minimum_buffer": 1051,
+    "expiry_date": "2027-08-01"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-4841-04",
+    "current_stock": 3951,
+    "minimum_buffer": 2117,
+    "expiry_date": "2027-08-07"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-9849-05",
+    "current_stock": 1297,
+    "minimum_buffer": 601,
+    "expiry_date": "2027-08-24"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-4788-06",
+    "current_stock": 672,
+    "minimum_buffer": 359,
+    "expiry_date": "2027-05-30"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-4505-07",
+    "current_stock": 2013,
+    "minimum_buffer": 866,
+    "expiry_date": "2027-05-31"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-6421-08",
+    "current_stock": 821,
+    "minimum_buffer": 444,
+    "expiry_date": "2027-10-08"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-2020-09",
+    "current_stock": 779,
+    "minimum_buffer": 304,
+    "expiry_date": "2027-10-12"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-7381-10",
+    "current_stock": 1068,
+    "minimum_buffer": 518,
+    "expiry_date": "2027-10-15"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-1320-11",
+    "current_stock": 2224,
+    "minimum_buffer": 716,
+    "expiry_date": "2028-01-07"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-7232-12",
+    "current_stock": 675,
+    "minimum_buffer": 222,
+    "expiry_date": "2028-01-02"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-5892-13",
+    "current_stock": 861,
+    "minimum_buffer": 349,
+    "expiry_date": "2027-09-10"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-9818-14",
+    "current_stock": 3195,
+    "minimum_buffer": 1109,
+    "expiry_date": "2027-10-14"
+  },
+  {
+    "facility_id": "DEPOT-02",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-4613-15",
+    "current_stock": 1847,
+    "minimum_buffer": 643,
+    "expiry_date": "2027-12-18"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-01",
+    "batch_lot_number": "LOT-2026-8140-01",
+    "current_stock": 3036,
+    "minimum_buffer": 1223,
+    "expiry_date": "2027-07-31"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-02",
+    "batch_lot_number": "LOT-2026-6507-02",
+    "current_stock": 6139,
+    "minimum_buffer": 2477,
+    "expiry_date": "2027-09-29"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-03",
+    "batch_lot_number": "LOT-2026-3704-03",
+    "current_stock": 2876,
+    "minimum_buffer": 1044,
+    "expiry_date": "2027-10-07"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-04",
+    "batch_lot_number": "LOT-2026-9751-04",
+    "current_stock": 6228,
+    "minimum_buffer": 2068,
+    "expiry_date": "2027-05-18"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-05",
+    "batch_lot_number": "LOT-2026-1444-05",
+    "current_stock": 1061,
+    "minimum_buffer": 592,
+    "expiry_date": "2027-10-01"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-06",
+    "batch_lot_number": "LOT-2026-3223-06",
+    "current_stock": 702,
+    "minimum_buffer": 374,
+    "expiry_date": "2027-10-19"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-07",
+    "batch_lot_number": "LOT-2026-1823-07",
+    "current_stock": 2722,
+    "minimum_buffer": 892,
+    "expiry_date": "2027-06-15"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-08",
+    "batch_lot_number": "LOT-2026-4467-08",
+    "current_stock": 931,
+    "minimum_buffer": 435,
+    "expiry_date": "2027-08-28"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-09",
+    "batch_lot_number": "LOT-2026-7211-09",
+    "current_stock": 740,
+    "minimum_buffer": 304,
+    "expiry_date": "2027-09-02"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-10",
+    "batch_lot_number": "LOT-2026-5133-10",
+    "current_stock": 1092,
+    "minimum_buffer": 504,
+    "expiry_date": "2027-10-15"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-11",
+    "batch_lot_number": "LOT-2026-1317-11",
+    "current_stock": 2147,
+    "minimum_buffer": 715,
+    "expiry_date": "2027-11-09"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-12",
+    "batch_lot_number": "LOT-2026-6733-12",
+    "current_stock": 653,
+    "minimum_buffer": 227,
+    "expiry_date": "2027-04-09"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-13",
+    "batch_lot_number": "LOT-2026-1659-13",
+    "current_stock": 709,
+    "minimum_buffer": 340,
+    "expiry_date": "2027-04-18"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-14",
+    "batch_lot_number": "LOT-2026-4266-14",
+    "current_stock": 3248,
+    "minimum_buffer": 1127,
+    "expiry_date": "2027-07-18"
+  },
+  {
+    "facility_id": "DEPOT-03",
+    "supply_id": "SKU-15",
+    "batch_lot_number": "LOT-2026-3496-15",
+    "current_stock": 1981,
+    "minimum_buffer": 658,
+    "expiry_date": "2028-01-26"
+  }
+]

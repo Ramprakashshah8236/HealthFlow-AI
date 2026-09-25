@@ -1,0 +1,167 @@
+[
+  {
+    "id": "SKU-01",
+    "name": "N95 Respirator Masks",
+    "category": "PPE",
+    "unit": "Boxes (20/bx)",
+    "unit_cost": 24.5,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 730
+  },
+  {
+    "id": "SKU-02",
+    "name": "Surgical Nitrile Gloves (L)",
+    "category": "PPE",
+    "unit": "Boxes (100/bx)",
+    "unit_cost": 18.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1095
+  },
+  {
+    "id": "SKU-03",
+    "name": "IV Administration Infusion Sets",
+    "category": "Critical Care",
+    "unit": "Packs (50/pk)",
+    "unit_cost": 65.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 730
+  },
+  {
+    "id": "SKU-04",
+    "name": "Sterile Saline 0.9% 1000ml",
+    "category": "Critical Care",
+    "unit": "Cases (12/cs)",
+    "unit_cost": 42.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 540
+  },
+  {
+    "id": "SKU-05",
+    "name": "Propofol Injectable Emulsion 20ml",
+    "category": "Pharmaceuticals",
+    "unit": "Vials (10/tray)",
+    "unit_cost": 125.0,
+    "is_cold_chain": true,
+    "temp_min_celsius": 4.0,
+    "temp_max_celsius": 25.0,
+    "default_shelf_life_days": 365
+  },
+  {
+    "id": "SKU-06",
+    "name": "Endotracheal Breathing Tubes 7.5mm",
+    "category": "Critical Care",
+    "unit": "Units",
+    "unit_cost": 15.2,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1825
+  },
+  {
+    "id": "SKU-07",
+    "name": "Rapid PCR Viral Diagnostic Kits",
+    "category": "Diagnostics",
+    "unit": "Kits (25 tests)",
+    "unit_cost": 310.0,
+    "is_cold_chain": true,
+    "temp_min_celsius": 2.0,
+    "temp_max_celsius": 8.0,
+    "default_shelf_life_days": 180
+  },
+  {
+    "id": "SKU-08",
+    "name": "Blood Administration Filter Sets",
+    "category": "Critical Care",
+    "unit": "Packs (20/pk)",
+    "unit_cost": 84.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1095
+  },
+  {
+    "id": "SKU-09",
+    "name": "Epinephrine Auto-Injectors 0.3mg",
+    "category": "Pharmaceuticals",
+    "unit": "2-Packs",
+    "unit_cost": 195.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": 15.0,
+    "temp_max_celsius": 25.0,
+    "default_shelf_life_days": 365
+  },
+  {
+    "id": "SKU-10",
+    "name": "Heparin Sodium Injection 5000U",
+    "category": "Pharmaceuticals",
+    "unit": "Vials (25/cs)",
+    "unit_cost": 140.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": 20.0,
+    "temp_max_celsius": 25.0,
+    "default_shelf_life_days": 730
+  },
+  {
+    "id": "SKU-11",
+    "name": "Surgical Laparotomy Sponges 18x18",
+    "category": "Surgical",
+    "unit": "Packs (5/pk)",
+    "unit_cost": 32.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1825
+  },
+  {
+    "id": "SKU-12",
+    "name": "Pediatric Ventilator Breathing Circuits",
+    "category": "Critical Care",
+    "unit": "Units",
+    "unit_cost": 55.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1095
+  },
+  {
+    "id": "SKU-13",
+    "name": "Hemostatic Gauze Trauma Dressings",
+    "category": "Surgical",
+    "unit": "Boxes (10/bx)",
+    "unit_cost": 115.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": null,
+    "temp_max_celsius": null,
+    "default_shelf_life_days": 1460
+  },
+  {
+    "id": "SKU-14",
+    "name": "Viral Transport Media (VTM) Swabs",
+    "category": "Diagnostics",
+    "unit": "Packs (100/pk)",
+    "unit_cost": 75.0,
+    "is_cold_chain": false,
+    "temp_min_celsius": 2.0,
+    "temp_max_celsius": 30.0,
+    "default_shelf_life_days": 270
+  },
+  {
+    "id": "SKU-15",
+    "name": "mRNA Biologic Vaccine Ampoules",
+    "category": "Pharmaceuticals",
+    "unit": "Trays (25 ampoules)",
+    "unit_cost": 450.0,
+    "is_cold_chain": true,
+    "temp_min_celsius": 2.0,
+    "temp_max_celsius": 8.0,
+    "default_shelf_life_days": 120
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "HealthFlow AI",
+  "description": "AI-Powered Health Supply Resilience Intelligence Platform for hospital monitoring, shortage predictions, waste detection, redistribution, and crisis simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

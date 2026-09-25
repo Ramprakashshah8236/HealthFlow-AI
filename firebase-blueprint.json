@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Authenticated user profile with role-based access control and facility assignment.",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "Unique Firebase Authentication UID." },
+        "email": { "type": "string", "format": "email", "description": "User business email address." },
+        "displayName": { "type": "string", "description": "Full name of the operator." },
+        "role": {
+          "type": "string",
+          "enum": ["system_admin", "regional_director", "hospital_logistics_lead", "clinical_pharmacist", "supply_analyst"],
+          "description": "Assigned RBAC clearance role."
+        },
+        "assignedHospitalId": { "type": "string", "description": "Facility identifier for local logistics leads or 'all' for regional roles." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Account registration timestamp." },
+        "lastLoginAt": { "type": "string", "format": "date-time", "description": "Timestamp of most recent authentication." }
+      },
+      "required": ["userId", "email", "role", "createdAt"]
+    },
+    "AuditLog": {
+      "title": "AuditLog",
+      "description": "Tamper-evident security and operational compliance event log.",
+      "type": "object",
+      "properties": {
+        "logId": { "type": "string", "description": "Unique audit log identifier." },
+        "timestamp": { "type": "string", "format": "date-time", "description": "Event occurrence timestamp." },
+        "userId": { "type": "string", "description": "UID of the operator who performed the action." },
+        "userEmail": { "type": "string", "description": "Email of the acting operator." },
+        "userRole": { "type": "string", "description": "Role clearance at time of action." },
+        "action": { "type": "string", "description": "Action performed (e.g. CRISIS_RUN, TRANSFER_DISPATCH, LOT_QUARANTINE, ALARM_RESET, AI_QUERY)." },
+        "resource": { "type": "string", "description": "Target entity or facility affected." },
+        "details": { "type": "string", "description": "Structured operational details or metadata." },
+        "status": { "type": "string", "enum": ["SUCCESS", "DENIED", "WARNING"], "description": "Outcome of security policy evaluation." }
+      },
+      "required": ["logId", "timestamp", "userId", "userEmail", "userRole", "action", "resource", "status"]
+    },
+    "RedistributionOrder": {
+      "title": "RedistributionOrder",
+      "description": "Inter-hospital emergency mutual-aid transfer agreement.",
+      "type": "object",
+      "properties": {
+        "transferId": { "type": "string", "description": "Transfer order tracking ID." },
+        "sourceHospitalId": { "type": "string", "description": "Donor hospital or central depot ID." },
+        "targetHospitalId": { "type": "string", "description": "Recipient hospital in acute shortage." },
+        "skuId": { "type": "string", "description": "Medical supply or pharmaceutical SKU." },
+        "quantity": { "type": "number", "description": "Number of units authorized for transfer." },
+        "urgency": { "type": "string", "enum": ["CRITICAL", "HIGH", "ROUTINE"], "description": "Priority tier." },
+        "status": { "type": "string", "enum": ["PROPOSED", "APPROVED", "DISPATCHED", "DELIVERED", "CANCELLED"], "description": "Current fulfillment status." },
+        "approvedBy": { "type": "string", "description": "UID of authorizer." },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Order creation timestamp." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Last status modification timestamp." }
+      },
+      "required": ["transferId", "sourceHospitalId", "targetHospitalId", "skuId", "quantity", "urgency", "status", "createdAt"]
+    },
+    "CrisisSimulationRecord": {
+      "title": "CrisisSimulationRecord",
+      "description": "Record of stress-test scenario parameters and forecasted impacts.",
+      "type": "object",
+      "properties": {
+        "scenarioId": { "type": "string", "description": "Scenario execution identifier." },
+        "initiatedBy": { "type": "string", "description": "UID of operator executing simulation." },
+        "diseaseDemandIncreasePct": { "type": "number", "description": "Epidemic demand surge percentage." },
+        "supplyDisruptionPct": { "type": "number", "description": "Factory/vendor disruption percentage." },
+        "portDisruptionPct": { "type": "number", "description": "Logistics choke point disruption percentage." },
+        "affectedHospitalCount": { "type": "number", "description": "Facilities at risk." },
+        "projectedStockoutsCount": { "type": "number", "description": "Projected critical stockouts within 14 days." },
+        "timestamp": { "type": "string", "format": "date-time", "description": "Execution timestamp." }
+      },
+      "required": ["scenarioId", "initiatedBy", "timestamp"]
+    },
+    "TestConnection": {
+      "title": "TestConnection",
+      "description": "Smoke-test document for validating Firestore connectivity.",
+      "type": "object",
+      "properties": {
+        "status": { "type": "string", "description": "Connectivity status string." },
+        "checkedAt": { "type": "string", "format": "date-time", "description": "Timestamp of probe." }
+      },
+      "required": ["status"]
+    },
+    "RealDataset": {
+      "title": "RealDataset",
+      "description": "User-imported production or real-world hospital inventory dataset.",
+      "type": "object",
+      "properties": {
+        "ownerId": { "type": "string", "description": "Owner UID." },
+        "datasetName": { "type": "string", "description": "Dataset label." },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Last updated timestamp." }
+      },
+      "required": ["ownerId", "updatedAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/User" },
+      "description": "User profile with role clearance. Read restricted to self and admins; writes restricted to self or admins."
+    },
+    "/audit_logs/{logId}": {
+      "schema": { "$ref": "#/entities/AuditLog" },
+      "description": "Immutable security and compliance log. Append-only for authenticated operators, read-only for security officers and admins."
+    },
+    "/redistributions/{transferId}": {
+      "schema": { "$ref": "#/entities/RedistributionOrder" },
+      "description": "Mutual-aid transfer orders with status tracking."
+    },
+    "/crisis_events/{scenarioId}": {
+      "schema": { "$ref": "#/entities/CrisisSimulationRecord" },
+      "description": "Regional stress-test records executed by authorized directors."
+    },
+    "/real_datasets/{datasetId}": {
+      "schema": { "$ref": "#/entities/RealDataset" },
+      "description": "User-imported production inventory datasets."
+    },
+    "/test/{testId}": {
+      "schema": { "$ref": "#/entities/TestConnection" },
+      "description": "Diagnostic health check endpoint."
+    }
+  }
+}

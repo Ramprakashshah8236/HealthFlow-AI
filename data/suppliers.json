@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SUP-01",
+    "name": "BioPharma Global Solutions",
+    "tier": "TIER_1",
+    "country": "United States",
+    "lead_time_days": 3,
+    "reliability_score": 0.98,
+    "categories": "Critical Care, Pharmaceuticals",
+    "contact_phone": "+1-800-555-0101"
+  },
+  {
+    "id": "SUP-02",
+    "name": "Cardinal MedTech Supplies",
+    "tier": "TIER_1",
+    "country": "United States",
+    "lead_time_days": 4,
+    "reliability_score": 0.95,
+    "categories": "PPE, Surgical, Diagnostics",
+    "contact_phone": "+1-800-555-0102"
+  },
+  {
+    "id": "SUP-03",
+    "name": "Apex Surgical Instruments",
+    "tier": "TIER_1",
+    "country": "Germany",
+    "lead_time_days": 6,
+    "reliability_score": 0.94,
+    "categories": "Surgical, Critical Care",
+    "contact_phone": "+49-89-555-0103"
+  },
+  {
+    "id": "SUP-04",
+    "name": "Nordix Biologics International",
+    "tier": "TIER_2",
+    "country": "Sweden",
+    "lead_time_days": 5,
+    "reliability_score": 0.96,
+    "categories": "Pharmaceuticals, Biologics",
+    "contact_phone": "+46-8-555-0104"
+  },
+  {
+    "id": "SUP-05",
+    "name": "Horizon PPE Manufacturing",
+    "tier": "TIER_1",
+    "country": "United States",
+    "lead_time_days": 2,
+    "reliability_score": 0.92,
+    "categories": "PPE",
+    "contact_phone": "+1-800-555-0105"
+  },
+  {
+    "id": "SUP-06",
+    "name": "VitalCare Pharmaceuticals",
+    "tier": "TIER_1",
+    "country": "United States",
+    "lead_time_days": 3,
+    "reliability_score": 0.97,
+    "categories": "Pharmaceuticals, Critical Care",
+    "contact_phone": "+1-800-555-0106"
+  },
+  {
+    "id": "SUP-07",
+    "name": "CryoLogix Cold-Chain Systems",
+    "tier": "TIER_2",
+    "country": "Netherlands",
+    "lead_time_days": 7,
+    "reliability_score": 0.93,
+    "categories": "Biologics, Diagnostics",
+    "contact_phone": "+31-20-555-0107"
+  },
+  {
+    "id": "SUP-08",
+    "name": "OmniVent Respiratory Systems",
+    "tier": "TIER_1",
+    "country": "United States",
+    "lead_time_days": 4,
+    "reliability_score": 0.91,
+    "categories": "Critical Care, Consumables",
+    "contact_phone": "+1-800-555-0108"
+  }
+]
